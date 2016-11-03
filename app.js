@@ -97,4 +97,4 @@ function main() {
      });
 }
 
-$(document).ready(main());
+$(document).ready(main);
